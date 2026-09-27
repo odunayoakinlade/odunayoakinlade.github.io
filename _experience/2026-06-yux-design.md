@@ -15,4 +15,4 @@ location: 'Remote'
 - Developing an LLM-as-a-judge pipeline to help scale semantic evaluation across 2,750+ sessions, exploring whether automated models can reliably assess complex multilingual health conversations across Senegal and Rwanda.
 - Creating a multi-turn benchmark dataset by processing conversational data through a three-layer validation pipeline (participant feedback, technical QA, and clinical expert review).
 
-Related work: *Beyond the Response: Participatory Multi-Turn Evaluation of Multilingual Voice AI for Health in Senegal and Rwanda*. [Learn more about the Cultural AI Lab](https://yux.design/index.php/en-gb/cultural-ai-lab).
+Related work: *Beyond the Response: Participatory Multi-Turn Evaluation of Multilingual Voice AI for Health in Senegal and Rwanda*. [Learn more about the project](https://yux.design/index.php/en-gb/human-centered-evaluation-openais-voice-voice-model-self-care-senegal-and-rwanda-) · [Cultural AI Lab](https://yux.design/index.php/en-gb/cultural-ai-lab)

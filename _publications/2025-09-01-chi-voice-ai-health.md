@@ -10,3 +10,5 @@ citation: 'Audu, O., Ka, M. C., Ly, N. C., <b>Akinlade, O. W.</b>, Gottschalk, J
 ---
 
 This work evaluates multilingual voice AI for health in Senegal and Rwanda through a participatory, multi-turn approach, examining how trust, comprehension, and cultural fit shape the viability of these systems in low-resource, multilingual contexts.
+
+[Learn more about the project](https://yux.design/index.php/en-gb/human-centered-evaluation-openais-voice-voice-model-self-care-senegal-and-rwanda-)
