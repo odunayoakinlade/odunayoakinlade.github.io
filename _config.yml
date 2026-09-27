@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angana Borah"
+title                    : "Odunayo Wuraola Akinlade"
 title_separator          : "-"
-name                     : &name "Angana Borah"
+name                     : &name "Odunayo Wuraola Akinlade"
 description              : &description "personal website"
-url                      : https://AnganaB.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://odunayoakinlade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AnganaB/AnganaB.github.io"
+repository               : "odunayoakinlade/odunayoakinlade.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &AnganaBorah2
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Angana Borah"
-  avatar           : "Screenshot 2022-10-14 at 7.41.26 PM.png"
-  bio              : "Ph.D. Candidate"
-  location         : "Ann Arbor, Michigan, United States"
+  name             : "Odunayo Wuraola Akinlade"
+  avatar           : "odunayo_profile.JPG"
+  bio              : "MSEAI Student, Carnegie Mellon University Africa"
+  location         : "Kigali, Rwanda"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0ALOtj4AAAAJ&hl=en"
-  email            : anganab@umich.edu
-  researchgate     : https://www.researchgate.net/profile/Angana-Borah-5
+  googlescholar    : "https://scholar.google.com/citations?user=QgCpo7oAAAAJ&hl=en"
+  email            : oakinlad@andrew.cmu.edu
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AnganaB"
+  github           : "odunayoakinlade"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anganaborah"
+  linkedin         : "odunayo-akinlade"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AnganaBorah2"
+  twitter          :
   vine             :
   weibo            :
   xing             :

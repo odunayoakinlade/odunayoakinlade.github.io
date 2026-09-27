@@ -1,29 +1,17 @@
-# main links links
+# main links
 
 main:
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
 
   - title: "Experience"
-    url: /experience/    
-  
-#   - title: "Teaching"
-#     url: /teaching/    
-    
+    url: /experience/
+
   - title: "Projects"
     url: /projects/
-    
-  - title: "Misc"
+
+  - title: "Awards & More"
     url: /misc/
-        
-#   - title: "Misc"
-#     url: /year-archive/
-    
-#   - title: "CV"
-#     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/
-    
-#   - title: "Talks"
-#     url: /talks/   
+
+  - title: "CV"
+    url: https://drive.google.com/file/d/1F5wCAGNzxpdRH0zdojFJ-T6h_cfH8FUs/view?usp=sharing

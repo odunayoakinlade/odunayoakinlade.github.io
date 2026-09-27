@@ -6,104 +6,36 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
---- 
-Hello, and welcome to my website! I am Angana Borah, a third-year Computer Science and Engineering Ph.D. candidate at the [University of Michigan, Ann Arbor](https://cse.engin.umich.edu/academics/graduate/graduate-programs/phd-in-cse/), advised by [Prof. Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/). Prior to this, I completed my master's in Computer Science at [Georgia Tech](https://www.cc.gatech.edu/). My research interests are in NLP and agents, especially evaluating human-LLM and LLM-LLM interactions from a socio-cultural lens, taking inspiration from psychology and cognitive sciences. In my PhD, I have been exploring how language models behave in socially grounded settings, including *fairness and bias*, *curiosity-driven interaction*, *misinformation and persuasion*, and *cultural alignment*. These directions aim to understand how LLMs reason, communicate, and influence people across diverse social and cultural contexts.
+Hello, and welcome to my website! I am **Odunayo Wuraola Akinlade**, a second-year **Master of Science in Engineering Artificial Intelligence (MSEAI)** student at [Carnegie Mellon University Africa](https://www.cmu.edu/africa/), where I am a Mastercard Foundation Scholar. I previously completed my BSc in Electrical and Electronic Engineering at the [University of Ibadan](https://ui.edu.ng/), graduating with First Class Honours.
 
+My research interests lie at the intersection of **Human-Centered AI, trustworthy AI, privacy and security, and Human-AI interaction**. I am particularly interested in how we can design and evaluate AI systems that people can understand, trust, and use effectively in real-world settings. More broadly, I am interested in moving beyond benchmark performance to understand how AI systems behave when they interact with people, particularly in **low-resource and high-stakes contexts**.
 
-I’m actively looking for research mentees and collaborators. Please reach out to discuss ideas or potential projects: [anganab@umich.edu](mailto:anganab@umich.edu).
+My current work spans several related questions. I have studied how machine learning practitioners understand and implement privacy-preserving machine learning, including the gap between developers’ perceptions of differential privacy and its actual implementation. I have also worked on evaluating multilingual voice AI systems for health in Senegal and Rwanda, with a focus on participatory, multi-turn evaluation. Through these projects, I have become increasingly interested in how technical properties of AI systems intersect with human expectations, behavior, context, and culture.
 
+Alongside my research, I serve as a teaching assistant at CMU Africa and have been involved in research and community-building initiatives focused on expanding opportunities for students in technology. I am also the President of [Women in Tech at CMU Africa](https://www.cmu.edu/africa/), where I work with students to create opportunities for learning, research, mentorship, and professional development.
 
-For more information, here's the [link](https://drive.google.com/file/d/1kg8M4DprPZ9YUsdtrkmHjtEqZuppMxin/view?usp=sharing) to my updated CV (as of May 2026)! 
+I am currently exploring opportunities for **PhD research and research collaborations** in Human-Centered AI, trustworthy AI, AI evaluation, privacy and security, and related areas. I am especially interested in research that brings together technical and human perspectives to understand and improve the way AI systems are developed and used.
 
-<h2>News</h2> 
+Please feel free to reach out if you would like to discuss research ideas, collaborations, or opportunities: [oakinlad@andrew.cmu.edu](mailto:oakinlad@andrew.cmu.edu).
 
-Here's what I have been upto lately: <br/>
+For more information, here is my [CV](https://drive.google.com/file/d/1F5wCAGNzxpdRH0zdojFJ-T6h_cfH8FUs/view?usp=sharing).
 
-@ __28 June, 2026__: Excited to share that the 5th NLP for Positive Impact Workshop will be co-located with EMNLP 2026 in Budapest! The call for papers is now out — find more details [here](https://sites.google.com/view/nlp4positiveimpact)
+<h2>News</h2>
 
-@ __1 June, 2026__: Stoked to be co-organizing the [AI Explorers Program](https://ai.engin.umich.edu/ai-partners/ai-explorers-program/), a global research and mentorship program supporting talented pre-doctoral students in building strong PhD applications! 
+Here’s what I’ve been up to lately:
 
-@ __11 May, 2026__: I’m joining Bloomberg LP CTO Office as a Research Intern (LLM Agents) in New York this summer!
+@ __Sep, 2026__: Excited to share that my poster has been accepted to WiML @ NeurIPS 2026! I’m looking forward to presenting my work and connecting with researchers at NeurIPS.
 
-@ __8 Apr, 2026__: Grateful to have been awarded the Rackham Pre-doctoral Fellowship by the University of Michigan Graduate School. Read more [here](https://ai.engin.umich.edu/stories/angana-borah-receives-rackham-predoctoral-fellowship).
+@ __Sep, 2026__: Our work on *Unveiling ML Developers’ Perceived and Actual Barriers of Privacy-Preserving ML Techniques* has been accepted as a poster at SOUPS 2026. The project investigates how developers understand and implement privacy-preserving machine learning in practice.
 
-@ __9 Jan, 2026__: Awarded the [Tinker Research Grant](https://thinkingmachines.ai/blog/tinker-research-and-teaching-grants/) ($5000) to continue our work on understanding curiosity in humans and models. Thank you, Thinking Machines Lab!  
+@ __Aug, 2026__: I attended CMMRS 2026, a research school that brought together students interested in pursuing research careers in computer science and related fields. I was selected for the program in April and spent a week in Saarbrücken, Germany, learning from researchers and connecting with other aspiring researchers.
 
-@ __4 Jan, 2026__: Two papers have been accepted to EACL 2026 Main! :) [Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions](https://arxiv.org/abs/2503.02038) and [NLP for Social Good: A Survey of Challenges, Opportunities, and Responsible Deployment](https://arxiv.org/pdf/2505.22327)
+@ __Jun, 2026__: I joined YUX Design Kigali as a Summer AI Research Intern, working on the evaluation of multilingual voice AI for health in Senegal and Rwanda. Our work explores participatory, multi-turn evaluation of AI systems in low-resource settings.
 
-@ __20 Oct, 2025__: Our pre-print on evaluating curiosity differences across cultures is out on arxiv! Feel free to check it out [here](https://arxiv.org/pdf/2510.12943). 
+@ __Jan, 2026__: I joined the Autism Research Lab Africa at CMU-Africa as a Research Assistant, working with Prof. Edith Luhanga on research at the intersection of AI and autism in African contexts.
 
-@ __Sep 19, 2025__: I gave an invited lecture (along with my advisor, Dr. Rada Mihalcea) at [EUROLAN summer school, Romania](https://conferences.info.uaic.ro/eurolan/2025/) on ‘Using Multi-Agent Systems to Explore and Model Human Social Behavior'. 
+@ __Jan, 2026__: I resumed my role as President of Women in Tech at CMU-Africa, following my election in November 2025. I am excited to continue building initiatives that support women in technology through research, mentorship, professional development, and community.
 
-@ __July 27, 2025__: Excited to be in Vienna for ACL 2025, presenting our paper: [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016), and co-organizing the [NLP for Positive Impact workshop](https://sites.google.com/view/nlp4positiveimpact)! 
-
-@ __June 2, 2025__: I’m joining Amazon Science (Alexa AI) as a Research Scientist Intern in Bellevue, Washington this summer! 
-
-@ __May 28, 2025__: I gave a talk about: "Agentic AI Ecosystems: Navigating Cultural-Awareness, Biases and Misinformation in Multi-agent and Human-agent Interactions" at Microsoft Research Africa Seminar Series! Here's the [video](https://www.youtube.com/watch?v=0cgDj6Qt6VM) of my talk. 
-
-@ __May 20, 2025__: Presented our work on belief congruence in LLMs and its downstream impact in misinformation dissemination and learning at the Center for Conflict and Cooperation at NYU, headed by Dr. Jay Van Bavel. Thanks to Dr. Laura Globig for the invite! :)
-
-@ __May 15, 2025__: Our paper - [Mind the (Belief) Gap: Group Identity in the World of LLMs](https://arxiv.org/abs/2503.02016) on understanding belief congruence (a social psychology theory) in LLMs and it's impact on downstream tasks such as misinformation dissemination and learning has been accepted to ACL 2025 (Findings)!
-
-@ __Apr 30-May 5, 2025__: At [NAACL 2025](https://2025.naacl.org/) in Albuquerque, New Mexico, we orally presented our work: [MosAIC](https://aclanthology.org/2025.naacl-long.152/), a multi-agent framework leveraging the “power of many” for cross-cultural image captioning. At the [C3NLP](https://c3nlp.github.io/) workshop at NAACL, I presented our work on [region-aware gender bias evaluation](https://aclanthology.org/2025.c3nlp-1.9/), which won an Outstanding Paper Award!! 🏆 You can learn more about my experiences on [LinkedIn](https://www.linkedin.com/posts/anganaborah_naacl2025-activity-7325221922579873792-8aEG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZ6FRwBjsfF6r07AGdeDvXgnkXpH-sOw7U) and [X](https://x.com/AnganaBorah2/status/1919225801448325458). 
-
-@ __Apr 29, 2025__: I received the CSE Service Award at UMich CSE Graduate Students Reception, 2025! ✨
-
-@ __Apr 15-16, 2025__: I gave a talk about our work on belief congruence in LLMs at the [Midwest Speech and Language Days (MSLD) 2025](https://nlp.nd.edu/msld25/), hosted at Notre Dame, Indiana. You can learn more about our work [here](https://x.com/AnganaBorah2/status/1914322632637325351) and [here](https://arxiv.org/pdf/2503.02016).
-
-@__Apr 8, 2025__: I gave a guest lecture about LLM agents in “Introduction to Engineering” at the University of Michigan, Flint. You can find my slides [here](https://docs.google.com/presentation/d/1x2DiyHYgRO0TdN19xKyex6C-r-VKWL5LhyoQHBcdn_A/edit?usp=sharing). 
-
-@ __Mar 3-5, 2025__: I attended the [EFH Innovation Sprint](https://www.ecosystemsfinancehealth.org/hackathon-2025) in Nairobi, Kenya, where I gave a talk on LLM Agents, their evaluation and insights from my PhD research. Here are the [slides](https://drive.google.com/file/d/1TJnVIliKfGTw45DSIWcX8KGxjWV04hMV/view?usp=sharing) of my talk. Here's my [X post](https://x.com/AnganaBorah2/status/1898087229966131603) detailing my experience! 
-
-@ __Mar 4, 2025__: Our paper "[Towards Region-aware Bias Evaluation Metrics](https://arxiv.org/abs/2406.16152)" has been accepted to the C3NLP (Cross-Cultural Considerations in NLP) workshop co-located with NAACL 2025 in Albuquerque, New Mexico!  
-
-@ __Feb 26, 2025__: I gave a guest lecture for the AI Foundations Course (EECS 592) at the University of Michigan, focusing on NLP, LLMs, and insights from my research. Here are the [slides](https://drive.google.com/file/d/1Rk9_pCv_cu2ptaw4ikPI5aINnCTlH00V/view?usp=sharing) of my lecture. 
-
-@ __Jan 22, 2025__: Our paper "[The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning](https://arxiv.org/pdf/2411.11758)" has been accepted to NAACL 2025 (Main). See you in Albuquerque, New Mexico!  
-
-@ __Jan 13, 2025__: I recently achieved my candidacy after completing all requirements including passing the preliminary examination!
-
-@ __Dec 20, 2024__: Our paper "[Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyone, By Everyone](https://arxiv.org/pdf/2410.16315)" has been accepted at the AAAI 2025 Senior Member Presentation Track. 
-
-@ __Dec 16, 2024__: I gave a talk on Natural Language Processing, and career opportunities in computer science at the Computer Science Honor Society at Eastlake High School in Seattle, Washington. Interacting with high school students and witnessing their enthusiasm for NLP was inspiring.
-
-@ __Nov 6, 2024__: Our proposal for the 4th Workshop on NLP for Positive Impact has been accepted to ACL 2025. More details on the [website](https://sites.google.com/view/nlp4positiveimpact). 
-
-@ __Oct 24, 2024__: I was on a panel discussing "The Ups and Downs of PhD" in the EECS 601: "Intro to Grad Studies" class at the University of Michigan. 
-
-@ __Sep 20, 2024__: Our paper "[Towards detection and mitigation of Implicit Biases in Multi-Agent LLM Interactions](https://arxiv.org/abs/2410.02584#:~:text=To%20mitigate%20them%2C%20we%20propose,to%20be%20the%20most%20successful.)", in collaboration with my advisor, Dr. Rada Mihalcea has been accepted to EMNLP 2024 Findings. See you in Miami! 
-
-@ __Sep 9, 2024__: Our paper "[Application Specific Compression of Deep Learning Models](https://arxiv.org/abs/2409.05368)" got accepted to the ACM IKDD CoDS COMAD 2024 conference. 
-
-@ __Jun 23, 2024__: Preprint of our work: Towards Region-aware Bias Evaluation Metrics available online [here](https://arxiv.org/abs/2406.16152)! 
-
-@ __Apr 29, 2024__: Gave a talk about our work on 'Cross-Cultural NLP' at the UMich x MBZUAI Workshop. 
-
-◎ __Apr 15-16, 2024__: Presented our work on cross-cultural bias evaluation at [Midwest Speech and Language Days, 2024](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/). 
-
-◎ __Sep 26, 2023__: Gave a talk about my work on understanding spurious correlations in translationese classification at the DFKI MLT (German Research Centre for AI's Multilingual Technologies Group) meeting. <br/><br/>
-◎ __Sep 5, 2023__: Presented our paper _[Measuring Spurious Correlation in Classification: 'Clever Hans' in Translationese](https://arxiv.org/abs/2308.13170)_ at the Recent Advances in Natural Language Processing (RANLP '23) conference in Varna, Bulgaria. <br/><br/>
-◎ __Aug 28, 2023__: Started my PhD at the University of Michigan, Ann Arbor. Go Blue!! <br/><br/>
-◎ __Jun 15, 2023__: Working on model compression in biomedical NLP, and how it affects downstream tasks like fairness this summer with Dr. Amit Awekar at IIT Guwahati, India <br/><br/>
-◎ __May 5, 2023__: Graduated from Georgia Tech with a master's in Computer Science (Machine Learning specialization).<img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556" alt="drawing" style="width:25px;"/><br/><br/>
-◎ __Apr 20-24, 2023__: Attended my first PyCon at Salt Lake City, Utah (awarded a full travel and attendee grant), and gave a talk about "_Approaches to Fairness and Bias Mitigation in NLP_" ([Talk Link!](https://www.youtube.com/watch?v=f0bEx1yT72o)) <br/><br/>
-◎ __Aug 15, 2022__: Started my fall internship at DFKI and Saarland University in Saarbrücken, Germany under the guidance of Prof. Josef van Genabith and Dr. Cristina Expaña Bonet. Worked on the problem of translationese, multilingualism, and interpretability of neural networks. <br/><br/>
-◎ __May 20, 2022__: Spent my summer at the Language Lab in UT Austin under the guidance of Prof. James W Pennebaker, wherein I worked on understanding the language used in social media pertaining to drugs and using computational techniques to determine changes over time. <br/><br/>
-◎ __Aug 30 - Sep 2, 2021__: Presented our paper "_Are Word Embedding Methods Stable and Should We Care About It?_" at the 2021 ACM Hypertext and Social Media conference. ([Paper Link!](https://dl.acm.org/doi/10.1145/3465336.3475098)) <br/><br/>
-◎ __Aug 23, 2021__: Started my master's at Georgia Tech. Go Jackets!!! <br/><br/> 
-◎ __Aug 6, 2021__: Last day at Microsoft to pursue further studies. Grateful to my entire team for a wonderful year, wherein I got to learn a lot about Cloud, AI, and customer success. <br/><br/>
-◎ __Jun 7, 2021__: Our survey paper "A survey on the roles of Bloom Filter in implementation of the Named Data Networking" got accepted to the Elsevier Computer Networks Journal ([Paper Link!](https://www.sciencedirect.com/science/article/abs/pii/S1389128621002747)). <br/><br/>
-◎ __May 27, 2020__: Started working at Microsoft as a Technical Account Manager, my first corporate stint! <br/><br/>
-◎ __May 20, 2020__: Graduated with a bachelor's degree in Computer Science and Engineering from the National Institute of Technology, Silchar. <img src="https://github.com/AnganaB/AnganaB.github.io/assets/30426258/d38e0e95-333b-4c5a-9a0d-f4e59d2f3556" alt="drawing" style="width:25px;"/> <br/><br/>
-◎ __Apr 21, 2020__: Completed my under-graduate thesis on Content-Based Image Retrieval Systems under the guidance of Prof. Badal Soni at NIT Silchar. <br/><br/>
-◎ __Apr 21, 2020__: Our paper "KTRICT: A KAZE Feature Extraction, Tree and Random Projection Indexing-Based CBIR Technique" got accepted to the International Journal of Multimedia Data Engineering and Management (IJMDEM). ([Paper link!](https://www.igi-global.com/article/ktrict-a-kaze-feature-extraction/260964))<br/><br/>
-
-
-
-
-
-
-
-         
-
+@ __Aug, 2025__: I began my MSEAI at Carnegie Mellon University Africa as a Mastercard Foundation Scholar, transitioning from electrical and electronic engineering into AI research.
