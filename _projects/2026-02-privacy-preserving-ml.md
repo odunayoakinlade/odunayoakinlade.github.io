@@ -13,4 +13,4 @@ excerpt: 'How do ML practitioners understand and implement differential privacy?
 - Led IRB protocol preparation, study design documentation, recruitment planning, and the mixed-methods data collection and analysis plan for human subjects evaluation.
 - Conducted thematic analysis, descriptive statistics, and cross-case synthesis of interview and observational data.
 
-This work was accepted as a poster at SOUPS 2026 and the WiML Workshop @ NeurIPS 2026.
+This work was accepted as a poster at SOUPS 2026 ([extended abstract](https://soups.page/2026/posters-files/soups2026posters-paper44-extended_abstract_paper.pdf)) and the WiML Workshop @ NeurIPS 2026.

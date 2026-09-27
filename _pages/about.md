@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my website! I am **Odunayo Wuraola Akinlade**, a second-year **Master of Science in Engineering Artificial Intelligence (MSEAI)** student at [Carnegie Mellon University Africa](https://www.cmu.edu/africa/), where I am a Mastercard Foundation Scholar. I previously completed my BSc in Electrical and Electronic Engineering at the [University of Ibadan](https://ui.edu.ng/), graduating with First Class Honours.
+Hello, and welcome to my website! I am **Odunayo Wuraola Akinlade**, a second-year **Master of Science in Engineering Artificial Intelligence (MSEAI)** student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/), where I am a Mastercard Foundation Scholar. I previously completed my BSc in Electrical and Electronic Engineering at the [University of Ibadan](https://ui.edu.ng/), graduating with First Class Honours.
 
 My research interests lie at the intersection of **Human-Centered AI, trustworthy AI, privacy and security, and Human-AI interaction**. I am particularly interested in how we can design and evaluate AI systems that people can understand, trust, and use effectively in real-world settings. More broadly, I am interested in moving beyond benchmark performance to understand how AI systems behave when they interact with people, particularly in **low-resource and high-stakes contexts**.
 
 My current work spans several related questions. I have studied how machine learning practitioners understand and implement privacy-preserving machine learning, including the gap between developers’ perceptions of differential privacy and its actual implementation. I have also worked on evaluating multilingual voice AI systems for health in Senegal and Rwanda, with a focus on participatory, multi-turn evaluation. Through these projects, I have become increasingly interested in how technical properties of AI systems intersect with human expectations, behavior, context, and culture.
 
-Alongside my research, I serve as a teaching assistant at CMU Africa and have been involved in research and community-building initiatives focused on expanding opportunities for students in technology. I am also the President of [Women in Tech at CMU Africa](https://www.cmu.edu/africa/), where I work with students to create opportunities for learning, research, mentorship, and professional development.
+Alongside my research, I serve as a teaching assistant at CMU Africa and have been involved in research and community-building initiatives focused on expanding opportunities for students in technology. I am also the President of [Women in Tech at CMU Africa](https://www.africa.engineering.cmu.edu/), where I work with students to create opportunities for learning, research, mentorship, and professional development.
 
-I am currently exploring opportunities for **PhD research and research collaborations** in Human-Centered AI, trustworthy AI, AI evaluation, privacy and security, and related areas. I am especially interested in research that brings together technical and human perspectives to understand and improve the way AI systems are developed and used.
+I am currently exploring opportunities for **PhD research and research collaborations** in Human-Centered AI, trustworthy AI, AI evaluation, privacy and security, and related areas.
 
 Please feel free to reach out if you would like to discuss research ideas, collaborations, or opportunities: [oakinlad@andrew.cmu.edu](mailto:oakinlad@andrew.cmu.edu).
 
@@ -28,7 +28,7 @@ Here’s what I’ve been up to lately:
 
 @ __Sep, 2026__: Excited to share that my poster has been accepted to WiML @ NeurIPS 2026! I’m looking forward to presenting my work and connecting with researchers at NeurIPS.
 
-@ __Sep, 2026__: Our work on *Unveiling ML Developers’ Perceived and Actual Barriers of Privacy-Preserving ML Techniques* has been accepted as a poster at SOUPS 2026. The project investigates how developers understand and implement privacy-preserving machine learning in practice.
+@ __Sep, 2026__: Our work on [*Unveiling ML Developers’ Perceived and Actual Barriers of Privacy-Preserving ML Techniques*](https://soups.page/2026/posters-files/soups2026posters-paper44-extended_abstract_paper.pdf) has been accepted as a poster at SOUPS 2026. The project investigates how developers understand and implement privacy-preserving machine learning in practice.
 
 @ __Aug, 2026__: I attended CMMRS 2026, a research school that brought together students interested in pursuing research careers in computer science and related fields. I was selected for the program in April and spent a week in Saarbrücken, Germany, learning from researchers and connecting with other aspiring researchers.
 
